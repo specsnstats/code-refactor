@@ -81,6 +81,8 @@ p {
     margin-left: 25px;
 }
 
+/* formatting all elements under the section-body class */
+
 .section-body {
     margin-bottom: 20px;
     padding: 50px;
@@ -99,7 +101,7 @@ p {
     font-size: 36px;
 }
 
-/*formatting all elements with the class="benefits"*/
+/*formatting all elements with the class="benefits-panel"*/
 .benefits-panel {
     margin-right: 20px;
     padding: 20px;
@@ -110,7 +112,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* formatting everything under the benefit class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
