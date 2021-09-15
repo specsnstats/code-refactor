@@ -81,7 +81,6 @@ p {
     margin-left: 25px;
 }
 
-/*Search Engine Optimization Section*/
 .section-body {
     margin-bottom: 20px;
     padding: 50px;
@@ -127,7 +126,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* formatting footer */
 .footer {
     padding: 30px;
     clear: both;
